@@ -14,7 +14,7 @@ export default function Hero3D() {
     <section className="relative h-[75vh] w-full overflow-hidden">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/EF7JOSsHLk16Tlw9/scene.splinecode"
+          scene="https://prod.spline.design/VJLoxp84lCdVfdZu/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
